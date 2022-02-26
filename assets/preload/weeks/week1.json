@@ -1,0 +1,31 @@
+{
+	"storyName": "Philly Freestyle",
+	"difficulties": "",
+	"hideFreeplay": true,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"cardiak",
+			"liluzi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Lil Uzi Week"
+}

@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opponent",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Yo, who are you little man?"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "opponent",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You some kinda blue midget? lmao"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep bo."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opponent",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Rap battle? can you even spit an 8-bar?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "opponent",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're lucky my manager is out for lunch. I'll give you that rap battle."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opponent",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Don't go crying when I embarrass you in front of that chick."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ":D"
+		}
+	]
+}
