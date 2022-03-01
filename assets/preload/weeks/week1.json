@@ -3,22 +3,27 @@
 	"difficulties": "",
 	"hideFreeplay": true,
 	"weekBackground": "philly",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
-			"cardiak",
+			"Snakes",
 			"liluzi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"cardiak",
+			"dad",
 			[
 				146,
 				113,
@@ -26,6 +31,10 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
 	"weekName": "Lil Uzi Week"
 }
