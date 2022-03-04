@@ -4319,11 +4319,11 @@
 		"gfVersion": "gf",
 		"events": [],
 		"player3": null,
-		"song": "Snakes",
+		"song": "Fresh",
 		"validScore": true,
 		"needsVoices": true,
-		"stage": "stage",
+		"stage": "philly",
 		"speed": 2.2,
-		"bpm": 170
+		"bpm": 120
 	}
 }

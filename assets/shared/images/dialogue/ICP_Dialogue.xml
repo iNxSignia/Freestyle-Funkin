@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ICP_Dialogue.png"><SubTexture name="ICP_Dialogue idle0000" x="0" y="0" width="89" height="84" frameX="-17" frameY="-10" frameWidth="127" frameHeight="108" />
+</TextureAtlas>
