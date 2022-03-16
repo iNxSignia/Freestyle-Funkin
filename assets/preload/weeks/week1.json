@@ -1,7 +1,7 @@
 {
 	"storyName": "Philly Freestyle",
 	"difficulties": "",
-	"hideFreeplay": true,
+	"hideFreeplay": false,
 	"weekBackground": "philly",
 	"weekBefore": "tutorial",
 	"freeplayColor": [
@@ -13,8 +13,17 @@
 	"hideStoryMode": false,
 	"songs": [
 		[
+			"Strings",
+			"uzi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
 			"Snakes",
-			"liluzi",
+			"uzi",
 			[
 				146,
 				113,
@@ -23,7 +32,7 @@
 		],
 		[
 			"cardiak",
-			"dad",
+			"uzi",
 			[
 				146,
 				113,
@@ -32,7 +41,7 @@
 		]
 	],
 	"weekCharacters": [
-		"",
+		"uzi",
 		"bf",
 		"gf"
 	],
