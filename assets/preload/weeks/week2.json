@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Gospel",
+			"bf",
+			[
+				26,
+				213,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Studio Session",
+	"weekName": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week1",
+	"startUnlocked": false
+}

@@ -1,0 +1,200 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey babe!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Think this is a good spot?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Hey uh..."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Don't you think this is a bit close to that tree the park ranger said to stay away from?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I mean, we're at a pretty safe distance from it. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It honestly cant be that bad."
+		},
+		{
+			"speed": 0.015,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Right?"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Alright..."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm trusting that we'll avoid trouble today and we can enjoy our retreat."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sick! And if anything becomes a bother..."
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I got it handled!"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "fungus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "La la la! ba bee bo ba! (this is the fungus speaking we just have no asset for it)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What song is that babe?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uhhh... what song? "
+		},
+		{
+			"speed": 0.03,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "That wasn't you singing just now?"
+		},
+		{
+			"speed": 0.195,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "No..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fungus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "du nuh nuh nuh, ba bee bo ba!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oh shit, yeah I heard it that time!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey! look over there by the tree root!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Is that a...?"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Field of mushrooms singing?"
+		},
+		{
+			"speed": 0.005,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh my god.."
+		},
+		{
+			"speed": 0.025,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "They're so adorable! Babe you"
+		},
+		{
+			"speed": 0.075,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HAVE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "To sing with them! Please! do it for me"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Um, sure..."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Alright!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		}
+	]
+}

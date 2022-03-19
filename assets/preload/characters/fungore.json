@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-202
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MushroomManIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-219
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MushroomManDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-170
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MushroomManUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-200
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MushroomManLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				-196
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MushroomManRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mushroom_assets",
+	"position": [
+		-80,
+		0
+	],
+	"healthicon": "fungore",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		141,
+		41
+	],
+	"camera_position": [
+		-130,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
